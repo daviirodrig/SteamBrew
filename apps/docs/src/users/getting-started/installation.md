@@ -26,6 +26,10 @@ Looking to package Millennium for your favorite distribution? It should be a rel
 
 We officially offer support for Millennium on the [Arch User Repository (AUR)](https://aur.archlinux.org/packages/millennium).
 
+```sh
+yay -S millennium
+```
+
 #### Post Installation
 
 After installing Millennium through the AUR, simply launch steam.
